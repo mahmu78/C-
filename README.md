@@ -4,4 +4,4 @@ Project apk files:https://drive.google.com/file/d/1su2qCQ_ta-vXnI_s-lYD7SwI77Joo
 
 Note1: The project works on both android x86 and android arm
 Note2: The project only works on android devices
-Note3:The source files of the project are in google drive only The apk file of the project is available in both google drive and the release on my github page.
+Note3: The source files of the project are in google drive only The apk file of the project is available in both google drive and the release on my github page.
